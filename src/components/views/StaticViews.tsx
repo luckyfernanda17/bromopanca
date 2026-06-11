@@ -135,7 +135,7 @@ export default function StaticViews({ viewType, onNavigate }: StaticViewsProps) 
                       <div>
                         <h4 className="text-xs font-semibold text-gray-200 uppercase font-mono">Alamat Kantor Pusat</h4>
                         <p className="text-xs sm:text-sm text-gray-400 mt-1 font-light">
-                          Jl. Raya Penanjakan No. 45, Wonokitri, Tosari, Pasuruan, Jawa Timur 67177
+                          Jl. Ahmad Yani 111 Malang, Jawa Timur 65157
                         </p>
                       </div>
                     </li>
