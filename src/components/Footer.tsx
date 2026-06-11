@@ -38,13 +38,13 @@ export default function Footer({ onNavigate, onOpenExporter }: FooterProps) {
               Agen perjalanan wisata luxury & premium terpercaya di Jawa Timur. Spesialisasi petualangan Gunung Bromo, Air Terjun Tumpak Sewu, dan Danau Kawah Ijen Blue Fire dengan kualitas pelayanan bintang lima.
             </p>
             <div className="flex gap-4">
-              <a href="https://instagram.com/bromopanca" target="_blank" rel="noreferrer" className="w-9 h-9 rounded-full bg-forest-900 border border-gold-400/20 flex items-center justify-center hover:bg-gold-400 hover:text-forest-950 hover:scale-110 transition-all text-gold-300" title="Follow Instagram">
+              <a href="https://instagram.com/bromopanca_" target="_blank" rel="noreferrer" className="w-9 h-9 rounded-full bg-forest-900 border border-gold-400/20 flex items-center justify-center hover:bg-gold-400 hover:text-forest-950 hover:scale-110 transition-all text-gold-300" title="Follow Instagram">
                 <Instagram className="w-4 h-4" />
               </a>
-              <a href="https://facebook.com/bromopanca" target="_blank" rel="noreferrer" className="w-9 h-9 rounded-full bg-forest-900 border border-gold-400/20 flex items-center justify-center hover:bg-gold-400 hover:text-forest-950 hover:scale-110 transition-all text-gold-300" title="Like Facebook">
+              <a href="https://facebook.com/bromopanca_" target="_blank" rel="noreferrer" className="w-9 h-9 rounded-full bg-forest-900 border border-gold-400/20 flex items-center justify-center hover:bg-gold-400 hover:text-forest-950 hover:scale-110 transition-all text-gold-300" title="Like Facebook">
                 <Facebook className="w-4 h-4" />
               </a>
-              <a href="https://tiktok.com/@bromopanca" target="_blank" rel="noreferrer" className="w-9 h-9 rounded-full bg-forest-900 border border-gold-400/20 flex items-center justify-center hover:bg-gold-400 hover:text-forest-950 hover:scale-110 transition-all text-gold-300" title="Follow TikTok">
+              <a href="https://tiktok.com/@bromopanca_" target="_blank" rel="noreferrer" className="w-9 h-9 rounded-full bg-forest-900 border border-gold-400/20 flex items-center justify-center hover:bg-gold-400 hover:text-forest-950 hover:scale-110 transition-all text-gold-300" title="Follow TikTok">
                 <Video className="w-4 h-4" />
               </a>
               <a href="https://youtube.com/bromopanca" target="_blank" rel="noreferrer" className="w-9 h-9 rounded-full bg-forest-900 border border-gold-400/20 flex items-center justify-center hover:bg-gold-400 hover:text-forest-950 hover:scale-110 transition-all text-gold-300" title="Subscribe YouTube">
