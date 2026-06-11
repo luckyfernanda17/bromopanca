@@ -20,7 +20,7 @@ export default function Footer({ onNavigate, onOpenExporter }: FooterProps) {
   // Get 2 latest articles to show in footer dynamically
   const latestArticles = blogArticles.slice(0, 2);
 
-  const whatsappUrl = 'https://wa.me/6281234567890?text=Halo%20Bromo%20Panca%2C%20saya%20tertarik%20untuk%20booking%20paket%20wisata%20di%20East%20Java.';
+  const whatsappUrl = 'https://wa.me/6285211639430?text=Halo%20Bromo%20Panca%2C%20saya%20tertarik%20untuk%20booking%20paket%20wisata%20di%20East%20Java.';
 
   return (
     <footer id="global-footer" className="bg-forest-950 text-gray-300 border-t border-gold-400/20 pt-16 pb-8">
