@@ -118,7 +118,7 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
             <div className="border border-gold-400/10 rounded-2xl overflow-hidden bg-forest-950/40 relative group shadow-lg">
               <div className="h-64 overflow-hidden relative">
                 <img
-                  src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=400"
+                  src="/sunrise-gunung-bromo.png"
                   alt="Lautan Pasir Bromo"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 duration-300"
@@ -142,7 +142,7 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
             <div className="border border-gold-400/10 rounded-2xl overflow-hidden bg-forest-950/40 relative group shadow-lg">
               <div className="h-64 overflow-hidden relative">
                 <img
-                  src="https://images.unsplash.com/photo-1581347683933-cb60144588e3?auto=format&fit=crop&q=80&w=400"
+                  src="tumpak-sewu-waterfall.png"
                   alt="Tumpak Sewu"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 duration-300"
@@ -166,7 +166,7 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
             <div className="border border-gold-400/10 rounded-2xl overflow-hidden bg-forest-950/40 relative group shadow-lg">
               <div className="h-64 overflow-hidden relative">
                 <img
-                  src="https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&q=80&w=400"
+                  src="kawah-ijen-blue-fire.png"
                   alt="Kawah Ijen Blue Fire"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 duration-300"
