@@ -186,10 +186,10 @@ export default function StaticViews({ viewType, onNavigate }: StaticViewsProps) 
 
             </div>
           </div>
-        </section>
+        </div>
       </div>
     );
-  }
+        
 
   // default to About Us view
   return (
@@ -272,7 +272,6 @@ export default function StaticViews({ viewType, onNavigate }: StaticViewsProps) 
             </div>
           </div>
         </div>
-      </section>
     </div>
   );
-}
+
