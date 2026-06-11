@@ -172,7 +172,7 @@ export default function GalleryView({ onNavigate }: GalleryViewProps) {
           </p>
           <div className="mt-8">
             <a
-              href="https://wa.me/6281234567890?text=Halo%20Bromo%20Panca%2C%20saya%20melihat%20galeri%20foto%20dan%20tertarik%20untuk%20booking%20trip%20hari%2520ini."
+              href="https://wa.me/6285211639430?text=Halo%20Bromo%20Panca%2C%20saya%20melihat%20galeri%20foto%20dan%20tertarik%20untuk%20booking%20trip%20hari%2520ini."
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-1.5 bg-emerald-600 hover:bg-emerald-500 text-white font-sans font-bold text-xs px-6 py-3 rounded-full"
