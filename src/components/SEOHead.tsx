@@ -108,7 +108,7 @@ export default function SEOHead({
       ],
       'contactPoint': {
         '@type': 'ContactPoint',
-        'telephone': '+62-8123-4567-890',
+        'telephone': '+62-8521-1638-430',
         'contactType': 'customer service',
         'areaServed': 'ID',
         'availableLanguage': ['Indonesian', 'English']
