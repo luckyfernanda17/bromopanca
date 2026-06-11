@@ -36,7 +36,7 @@ export default function InquiryForm({ initialPackageSlug = '' }: InquiryFormProp
       `\nMohon informasi rincian biaya, akomodasi, ketersediaan, serta metode pembayarannya. Terima kasih!`;
 
     const encodedMessage = encodeURIComponent(message);
-    const waUrl = `https://wa.me/6281234567890?text=${encodedMessage}`;
+    const waUrl = `https://wa.me/6285211639430?text=${encodedMessage}`;
     
     setSubmitted(true);
     setTimeout(() => {
