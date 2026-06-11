@@ -167,17 +167,16 @@ export default function StaticViews({ viewType, onNavigate }: StaticViewsProps) 
                 </div>
 
                 {/* Simulated Elegant map */}
-                <div className="bg-forest-900 border border-gold-400/10 p-6 rounded-2xl text-center shadow-xl">
-                  <div className="bg-forest-950 rounded-xl p-8 border border-gold-400/5 relative overflow-hidden flex flex-col items-center">
-                    <Compass className="w-10 h-10 text-gold-400 mb-2 animate-spin-slow" />
-                    <h4 className="font-serif font-bold text-gold-150 text-sm">Peta Koordinasi Kantor Pasuruan</h4>
-                    <p className="text-[11px] text-gray-450 mt-1">Lattitude: -7.8427, Longitude: 112.9238</p>
-                    <p className="text-xs text-gray-400 mt-3 font-light leading-relaxed">
-                      Lokasi kantor kami sangat dekat dengan gerbang transit utama Jeep Penanjakan 1 Bromo via Tosari Pasuruan. Tamu dipersilakan berkunjung untuk sekadar menyeruput kopi Tengger hangat.
-                    </p>
-                  </div>
-                </div>
-
+                <div className="bg-forest-900 border border-gold-400/10 p-4 rounded-2xl shadow-xl overflow-hidden h-80">
+<div className="bg-forest-900 border border-gold-400/10 p-4 rounded-2xl shadow-xl overflow-hidden h-80">
+  <iframe
+    src="https://maps.app.goo.gl/vp9GFmrhaNQV3Guv7"
+    className="w-full h-full rounded-xl border-0"
+    allowFullScreen={true}
+    loading="lazy"
+    referrerPolicy="no-referrer"
+  ></iframe>
+</div>
               </div>
 
               {/* Right Column Reservation Form */}
