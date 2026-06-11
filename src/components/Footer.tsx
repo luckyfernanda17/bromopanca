@@ -125,7 +125,7 @@ export default function Footer({ onNavigate, onOpenExporter }: FooterProps) {
               </li>
               <li className="flex items-center gap-2.5">
                 <Phone className="w-4 h-4 text-gold-400 flex-shrink-0" />
-                <span>+62 812-3456-7890</span>
+                <span>+62 852-1163-9430</span>
               </li>
               <li className="flex items-center gap-2.5">
                 <Mail className="w-4 h-4 text-gold-400 flex-shrink-0" />
