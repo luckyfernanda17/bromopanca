@@ -232,7 +232,7 @@ export default function StaticViews({ viewType, onNavigate }: StaticViewsProps) 
             </div>
             <div className="rounded-2xl overflow-hidden border border-gold-400/15">
               <img
-                src="https://images.unsplash.com/photo-1544085311-11a028465b03?auto=format&fit=crop&q=80&w=600"
+                src="/bromo-sunrise-viewpoint.jpeg"
                 alt="Tentang kami bromo jeep"
                 referrerPolicy="no-referrer"
                 className="w-full h-80 object-cover"
