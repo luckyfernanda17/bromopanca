@@ -31,12 +31,9 @@ export const tourPackages: TourPackage[] = [
     ],
     inclusions: [
       'Jeep 4x4 Private (Bahan Bakar & Driver)',
-      'Transportasi Jemput & Antar AC (Surabaya/Malang)',
-      'Akomodasi Hotel Bintang 3/4 di Bromo (Termasuk Sarapan)',
       'Tiket Masuk Taman Nasional Bromo Tengger Semeru (TNBTS)',
       'Air Mineral Premium Selama Trip',
-      'Masker & Snack Box Eksklusif Bromo Panca',
-      'Dokumentasi Driver Professional'
+      'Dokumentasi Professional'
     ],
     exclusions: [
       'Pengeluaran Pribadi (Belanja, Tip Driver)',
@@ -137,15 +134,14 @@ export const tourPackages: TourPackage[] = [
     inclusions: [
       'Tiket Masuk TNBTS Resmi (Domestik)',
       'Jeep 4x4 Sharing (Maksimal 6 Orang/Jeep)',
-      'Transportasi Antar Jemput AC (Surabaya/Malang)',
-      'Driver Profesional merangkap Guide Lokal',
+      'Transportasi Antar Jemput AC (Malang)',
+      'Driver Profesional',
       'Bahan Bakar Mobil & Parkir',
-      'Air Mineral & Masker'
+      'Dokumentasi Kamera Mirrorless profesional'
     ],
     exclusions: [
       'Sewa Kuda di Kawah Bromo',
       'Makan & Minum Pribadi selama trip',
-      'Dokumentasi Kamera DSLR profesional (Opsional tambahan)'
     ],
     itinerary: [
       {
@@ -186,7 +182,7 @@ export const tourPackages: TourPackage[] = [
     ],
     reviews: [
       {
-        author: 'Nabila Syakieb',
+        author: 'Diana Okta',
         rating: 5,
         date: '15 Mei 2026',
         comment: 'Solo traveling pertama kali ke Bromo pakai open trip ini sangat menyenangkan. Temannya asik, drivernya lucu dan pinter nyari angle foto. Harga murah tapi standar service luar biasa.',
@@ -240,8 +236,8 @@ export const tourPackages: TourPackage[] = [
     ],
     inclusions: [
       'Transportasi AC Private PP (Surabaya/Malang)',
-      'Akomodasi Hotel 1 Malam di Bromo & 1 Malam di dekat Tumpak Sewu',
-      'Jeep Toyota Land Cruiser 4x4 di Bromo (Privat)',
+      'Akomodasi Hotel 1 Malam di Bromo',
+      'Jeep Toyota Land Cruiser 4x4 di Bromo',
       'Tiket Masuk Bromo TNBTS & Air Terjun Tumpak Sewu',
       'Lokal Ranger / Guide Spesialis Turun Tebing Tumpak Sewu',
       'Sarapan Pagi di Hotel',
