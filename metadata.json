@@ -1,0 +1,6 @@
+{
+  "name": "Bromo Panca",
+  "description": "Premium travel agency specializing in luxury Mount Bromo, Tumpak Sewu Waterfall, and Kawah Ijen tourism experiences in East Java.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
