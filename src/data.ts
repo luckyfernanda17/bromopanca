@@ -414,7 +414,7 @@ export const blogArticles: BlogArticle[] = [
     targetPackageSlug: 'paket-wisata-bromo',
     author: {
       name: 'Lucky Fernanda',
-      avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=150',
+      avatar: '/sunrise-gunung-bromo.png',
       role: 'Travel Planner Expert',
       bio: 'Konsultan perjalanan berpengalaman 8 tahun menyusun itinerary petualangan Jawa Timur yang efisien dan tak terlupakan.'
     },
@@ -466,7 +466,7 @@ export const blogArticles: BlogArticle[] = [
     targetPackageSlug: 'paket-wisata-bromo',
     author: {
       name: 'Hanif Tengger',
-      avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=150',
+      avatar: 'trip-bromo-sunrise.jpeg',
       role: 'Master Guide Bromo Panca',
       bio: 'Warga asli Tengger yang mendedikasikan hidup memperkenalkan pesona megah kaldera Bromo kepada dunia luar.'
     },
@@ -501,7 +501,7 @@ export const blogArticles: BlogArticle[] = [
     targetPackageSlug: 'paket-wisata-bromo',
     author: {
       name: 'Lucky Fernanda',
-      avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=150',
+      avatar: 'tumpak-sewu-waterfall.png',
       role: 'Travel Planner Expert',
       bio: 'Konsultan perjalanan berpengalaman 8 tahun menyusun itinerary petualangan Jawa Timur.'
     },
@@ -527,7 +527,7 @@ export const blogArticles: BlogArticle[] = [
     targetPackageSlug: 'paket-wisata-bromo',
     author: {
       name: 'Hanif Tengger',
-      avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=150',
+      avatar: 'tumpak-sewu-waterfall.png',
       role: 'Master Guide Bromo Panca',
       bio: 'Warga asli Tengger yang mendedikasikan hidup memperkenalkan pesona megah kaldera Bromo.'
     },
@@ -553,7 +553,7 @@ export const blogArticles: BlogArticle[] = [
     targetPackageSlug: 'paket-wisata-bromo',
     author: {
       name: 'Lucky Fernanda',
-      avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=150',
+      avatar: 'tumpak-sewu-waterfall.png',
       role: 'Travel Planner Expert',
       bio: 'Travel Planner Expert'
     },
@@ -581,7 +581,7 @@ export const blogArticles: BlogArticle[] = [
     targetPackageSlug: 'open-trip-bromo',
     author: {
       name: 'Lucky Fernanda',
-      avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=150',
+      avatar: 'tumpak-sewu-waterfall.png',
       role: 'Travel Planner Expert',
       bio: 'Travel Planner Expert'
     },
@@ -607,7 +607,7 @@ export const blogArticles: BlogArticle[] = [
     targetPackageSlug: 'open-trip-bromo',
     author: {
       name: 'Hanif Tengger',
-      avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=150',
+      avatar: 'tumpak-sewu-waterfall.png',
       role: 'Master Guide Bromo Panca',
       bio: 'Warga asli Tengger yang mendedikasikan hidup memperkenalkan pesona megah kaldera Bromo.'
     },
@@ -635,7 +635,7 @@ export const blogArticles: BlogArticle[] = [
     targetPackageSlug: 'paket-bromo-tumpak-sewu',
     author: {
       name: 'Lucky Fernanda',
-      avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=150',
+      avatar: 'tumpak-sewu-waterfall.png',
       role: 'Travel Planner Expert',
       bio: 'Travel Planner Expert'
     },
@@ -669,7 +669,7 @@ export const blogArticles: BlogArticle[] = [
     targetPackageSlug: 'paket-bromo-tumpak-sewu',
     author: {
       name: 'Hanif Tengger',
-      avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=150',
+      avatar: 'tumpak-sewu-waterfall.png',
       role: 'Master Guide Bromo Panca',
       bio: 'Warga asli Tengger'
     },
@@ -697,7 +697,7 @@ export const blogArticles: BlogArticle[] = [
     targetPackageSlug: 'paket-bromo-ijen',
     author: {
       name: 'Lucky Fernanda',
-      avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=150',
+      avatar: 'tumpak-sewu-waterfall.png',
       role: 'Travel Planner Expert',
       bio: 'Travel Planner Expert'
     },
@@ -723,7 +723,7 @@ export const blogArticles: BlogArticle[] = [
     targetPackageSlug: 'paket-bromo-ijen',
     author: {
       name: 'Hanif Tengger',
-      avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=150',
+      avatar: 'tumpak-sewu-waterfall.png',
       role: 'Master Guide Bromo Panca',
       bio: 'Warga asli Tengger'
     },
