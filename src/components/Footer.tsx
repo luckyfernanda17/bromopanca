@@ -121,7 +121,7 @@ export default function Footer({ onNavigate, onOpenExporter }: FooterProps) {
             <ul className="space-y-3.5 text-sm text-gray-400">
               <li className="flex items-start gap-2.5">
                 <MapPin className="w-5 h-5 text-gold-400 flex-shrink-0 mt-0.5" />
-                <span>Jl. Raya Penanjakan No. 45, Wonokitri, Tosari, Pasuruan, Jawa Timur 67177</span>
+                <span>Jl. Ahmad Yani 111 Malang, Jawa Timur</span>
               </li>
               <li className="flex items-center gap-2.5">
                 <Phone className="w-4 h-4 text-gold-400 flex-shrink-0" />
