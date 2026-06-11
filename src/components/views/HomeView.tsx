@@ -124,7 +124,7 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
                   className="w-full h-full object-cover group-hover:scale-105 duration-300"
                 />
                 <div className="absolute top-4 left-4 bg-forest-900 border border-gold-400/30 px-2.5 py-1 rounded text-[10px] font-mono uppercase text-gold-300">
-                  Target Keyword S1
+                  POPULER
                 </div>
               </div>
               <div className="p-6">
@@ -148,7 +148,7 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
                   className="w-full h-full object-cover group-hover:scale-105 duration-300"
                 />
                 <div className="absolute top-4 left-4 bg-forest-900 border border-gold-400/30 px-2.5 py-1 rounded text-[10px] font-mono uppercase text-gold-300">
-                  Target Keyword S3
+                  TRENDING
                 </div>
               </div>
               <div className="p-6">
@@ -172,7 +172,7 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
                   className="w-full h-full object-cover group-hover:scale-105 duration-300"
                 />
                 <div className="absolute top-4 left-4 bg-forest-900 border border-gold-400/30 px-2.5 py-1 rounded text-[10px] font-mono uppercase text-gold-300">
-                  Target Keyword S4
+                  TRENDING
                 </div>
               </div>
               <div className="p-6">
