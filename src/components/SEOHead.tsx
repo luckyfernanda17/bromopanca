@@ -102,7 +102,7 @@ export default function SEOHead({
       'url': 'https://bromopanca.com',
       'logo': 'https://images.unsplash.com/photo-1626260851890-0ff1339ce9b4?auto=format&fit=crop&q=80&w=150',
       'sameAs': [
-        'https://www.instagram.com/bromopanca',
+        'https://www.instagram.com/bromopanca_',
         'https://www.facebook.com/bromopanca',
         'https://www.tiktok.com/@bromopanca'
       ],
@@ -115,10 +115,10 @@ export default function SEOHead({
       },
       'address': {
         '@type': 'PostalAddress',
-        'streetAddress': 'Jl. Raya Penanjakan No. 45, Wonokitri, Tosari, Pasuruan',
-        'addressLocality': 'Pasuruan',
+        'streetAddress': 'Jl. Ahmad Yani 111 Malang, Jawa Timur 65157',
+        'addressLocality': 'Malang',
         'addressRegion': 'Jawa Timur',
-        'postalCode': '67177',
+        'postalCode': '65157',
         'addressCountry': 'ID'
       }
     };
@@ -134,10 +134,10 @@ export default function SEOHead({
       'priceRange': '$$',
       'address': {
         '@type': 'PostalAddress',
-        'streetAddress': 'Jl. Raya Penanjakan No. 45',
-        'addressLocality': 'Pasuruan',
+        'streetAddress': 'Jl. Ahmad Yani 111',
+        'addressLocality': 'Malang',
         'addressRegion': 'Jawa Timur',
-        'postalCode': '67177',
+        'postalCode': '65157',
         'addressCountry': 'ID'
       },
       'geo': {
