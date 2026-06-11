@@ -77,7 +77,7 @@ export default function StaticViews({ viewType, onNavigate }: StaticViewsProps) 
               <h4 className="font-serif font-bold text-gold-100 text-lg">Ada Pertanyaan Tambahan?</h4>
               <p className="text-xs text-gray-400 mt-2 font-light">Hubungi WhatsApp Chat admin 24 jam kami untuk respon langsung yang ramah.</p>
               <a
-                href="https://wa.me/6281234567890?text=Halo%20Bromo%20Panca%2C%20saya%20punya%20pertanyaan%20mengenai%20paket%20wisatanya."
+                href="https://wa.me/6285211639430?text=Halo%20Bromo%20Panca%2C%20saya%20punya%20pertanyaan%20mengenai%20paket%20wisatanya."
                 target="_blank"
                 rel="noreferrer"
                 className="mt-4 inline-flex items-center gap-1.5 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-semibold py-2 px-5 rounded-full"
