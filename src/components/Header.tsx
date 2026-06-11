@@ -32,7 +32,7 @@ export default function Header({ currentPath, onNavigate }: HeaderProps) {
   };
 
   // Prepares the target phone & direct text for conversion
-  const whatsappUrl = 'https://wa.me/6281234567890?text=Halo%20Bromo%20Panca%2C%20saya%20ingin%20tanya%20mengenai%20paket%20wisata%20premium%20ke%20Bromo.';
+  const whatsappUrl = 'https://wa.me/6285211639430?text=Halo%20Bromo%20Panca%2C%20saya%20ingin%20tanya%20mengenai%20paket%20wisata%20premium%20ke%20Bromo.';
 
   const tourMenuLinks = [
     { name: 'Bromo Tour Packages', path: '/paket-wisata-bromo.html', desc: 'Premium Private Tour', icon: Mountain },
