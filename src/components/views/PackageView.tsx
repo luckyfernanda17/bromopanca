@@ -42,7 +42,7 @@ export default function PackageView({ slug, onNavigate }: PackageViewProps) {
   const encodedMsg = encodeURIComponent(
     `Halo Bromo Panca, saya tertarik untuk bertanya dan order paket tur premium pariwisata: *${currentPkg.title}* (${currentPkg.duration}).`
   );
-  const stickyWAUrl = `https://wa.me/6281234567890?text=${encodedMsg}`;
+  const stickyWAUrl = `https://wa.me/6285211639430?text=${encodedMsg}`;
 
   return (
     <div id="package-detail-container" className="animate-fade-in text-gray-200">
