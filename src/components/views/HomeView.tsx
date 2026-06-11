@@ -30,7 +30,7 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
         {/* Background image overlay */}
         <div className="absolute inset-0 z-0">
           <img
-            src="https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&q=80&w=1500"
+            src="/sunrise-gunung-bromo.png"
             alt="Gunung Bromo Sunrise"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover opacity-35 scale-105"
