@@ -64,7 +64,7 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
               <ArrowRight className="w-4 h-4" />
             </button>
             <a
-              href="https://wa.me/6281234567890?text=Halo%20Bromo%20Panca%2C%20saya%20tertarik%20tanya%20paket%20wisata%20ke%20Bromo%20hari%20ini."
+              href="https://wa.me/6285211639430?text=Halo%20Bromo%20Panca%2C%20saya%20tertarik%20tanya%20paket%20wisata%20ke%20Bromo%20hari%20ini."
               target="_blank"
               rel="noreferrer"
               className="w-full sm:w-auto flex items-center justify-center gap-2 border border-gold-400/40 hover:bg-gold-400/10 text-gold-300 font-sans font-semibold text-sm px-7 py-4 rounded-xl transition-all"
@@ -499,7 +499,7 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
           <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a
               id="home-final-whatsapp-button"
-              href="https://wa.me/6281234567890?text=Halo%2520Bromo%2520Panca%252C%2520saya%2520ingin%2520pesan%2520paket%2520wisata."
+              href="https://wa.me/6285211639430?text=Halo%2520Bromo%2520Panca%252C%2520saya%2520ingin%2520pesan%2520paket%2520wisata."
               target="_blank"
               rel="noreferrer"
               className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-gradient-to-b from-emerald-600 to-emerald-500 hover:from-emerald-500 hover:to-emerald-400 text-white font-sans font-bold text-sm px-8 py-4 rounded-xl shadow-xl transition-all hover:scale-[1.02]"
